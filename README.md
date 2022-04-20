@@ -24,11 +24,11 @@ connection and contracts, read from the contract's state, and send transactions.
 ```bash
  npx hardhat compile
 ```
-2)Deploy your contract to rinkeby network:
+2) Deploy your contract to rinkeby network:
 ```bash
  npx hardhat --network rinkeby run scripts/deploy.js
 ```
-3)Navigate to frontend:
+3) Navigate to frontend:
 ```bash
  cd frontend
 ```
