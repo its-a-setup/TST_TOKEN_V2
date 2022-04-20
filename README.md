@@ -1,8 +1,5 @@
 # Simple React Dapp
 
-This directory has a sample Dapp to interact with TST Token contract (ERC-20 Token), built using
-React.
-
 ## Running the Dapp
 
 This project uses [`create-react-app`](https://create-react-app.dev/), so most
