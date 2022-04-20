@@ -19,6 +19,29 @@ The core functionality is implemented in `src/components/Dapp.js`, which has
 examples of how to connect to the user's wallet, initialize your Ethereum
 connection and contracts, read from the contract's state, and send transactions.
 
+# Dependencies
+Navigate to your project directory and run the following commands 1 by 1:
+```bash
+ npm init --yes
+```
+```bash
+ npm install --save-dev hardhat
+```
+```bash
+ npx hardhat
+```
+>Create a new empty hardhat.config.js
+```bash
+ npm install --save-dev @nomiclabs/hardhat-ethers ethers @nomiclabs/hardhat-waffle ethereum-waffle chai
+```
+```bash
+ cd frontend
+```
+```bash
+ npm install
+```
+
+
 # QuickStart
 1) Navigate to project's directory and run this command in CLI:
 ```bash
