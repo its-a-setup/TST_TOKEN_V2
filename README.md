@@ -25,6 +25,9 @@ Navigate to your project directory and run the following commands 1 by 1:
  npm install --save-dev hardhat
 ```
 ```bash
+ npm install dotenv --save
+```
+```bash
  npx hardhat
 ```
 >Create a new empty hardhat.config.js
@@ -37,7 +40,6 @@ Navigate to your project directory and run the following commands 1 by 1:
 ```bash
  npm install
 ```
-
 
 # QuickStart
 1) Navigate to project's directory and run this command in CLI:
